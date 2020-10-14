@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v2.0.0 (2020-10-14)
+### Feature
+* Major ([`f5b70a3`](https://github.com/mathieuboudreau/semantic_test/commit/f5b70a32e39ac317619964db4ba9e506ed17d0f4))
+
+### Breaking
+* simple test for major version change ([`f5b70a3`](https://github.com/mathieuboudreau/semantic_test/commit/f5b70a32e39ac317619964db4ba9e506ed17d0f4))
+
 ## v1.4.0 (2020-10-14)
 ### Feature
 * Test major ([`2778932`](https://github.com/mathieuboudreau/semantic_test/commit/277893262978a7fd6d86a357f3de695246036efd))
