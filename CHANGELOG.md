@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.3.0 (2020-10-14)
+### Feature
+* Test major ([`c58b884`](https://github.com/mathieuboudreau/semantic_test/commit/c58b884d8519db21ea9a27b9c138bccab566fcb1))
+
 ## v1.2.0 (2020-10-14)
 ### Feature
 * Test major ([`f5f9554`](https://github.com/mathieuboudreau/semantic_test/commit/f5f9554becfc7c1e75dfa97356d6a31ae6ab816a))
